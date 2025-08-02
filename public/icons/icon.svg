@@ -1,0 +1,59 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background circle -->
+  <circle cx="256" cy="256" r="256" fill="#8c288a"/>
+  
+  <!-- Main uniform icon -->
+  <g transform="translate(128, 96)">
+    <!-- Shirt body -->
+    <path d="M64 80 L64 320 L192 320 L192 80 L176 64 L160 48 L96 48 L80 64 Z" fill="white" stroke="none"/>
+    
+    <!-- Shirt collar -->
+    <path d="M96 48 L96 80 L128 96 L128 48 Z" fill="white" stroke="none"/>
+    <path d="M128 48 L128 96 L160 80 L160 48 Z" fill="white" stroke="none"/>
+    
+    <!-- Shirt sleeves -->
+    <path d="M64 80 L32 96 L32 160 L64 144 Z" fill="white" stroke="none"/>
+    <path d="M192 80 L224 96 L224 160 L192 144 Z" fill="white" stroke="none"/>
+    
+    <!-- Buttons -->
+    <circle cx="128" cy="120" r="4" fill="#8c288a"/>
+    <circle cx="128" cy="140" r="4" fill="#8c288a"/>
+    <circle cx="128" cy="160" r="4" fill="#8c288a"/>
+    
+    <!-- Pocket -->
+    <rect x="96" y="180" width="32" height="24" rx="4" fill="none" stroke="#8c288a" stroke-width="2"/>
+  </g>
+  
+  <!-- Barcode element -->
+  <g transform="translate(128, 360)">
+    <rect x="0" y="0" width="4" height="32" fill="white"/>
+    <rect x="8" y="0" width="2" height="32" fill="white"/>
+    <rect x="16" y="0" width="6" height="32" fill="white"/>
+    <rect x="28" y="0" width="2" height="32" fill="white"/>
+    <rect x="36" y="0" width="4" height="32" fill="white"/>
+    <rect x="48" y="0" width="2" height="32" fill="white"/>
+    <rect x="56" y="0" width="8" height="32" fill="white"/>
+    <rect x="72" y="0" width="2" height="32" fill="white"/>
+    <rect x="80" y="0" width="4" height="32" fill="white"/>
+    <rect x="92" y="0" width="2" height="32" fill="white"/>
+    <rect x="100" y="0" width="6" height="32" fill="white"/>
+    <rect x="112" y="0" width="2" height="32" fill="white"/>
+    <rect x="120" y="0" width="4" height="32" fill="white"/>
+    <rect x="132" y="0" width="2" height="32" fill="white"/>
+    <rect x="140" y="0" width="8" height="32" fill="white"/>
+    <rect x="156" y="0" width="2" height="32" fill="white"/>
+    <rect x="164" y="0" width="4" height="32" fill="white"/>
+    <rect x="176" y="0" width="2" height="32" fill="white"/>
+    <rect x="184" y="0" width="6" height="32" fill="white"/>
+    <rect x="196" y="0" width="2" height="32" fill="white"/>
+    <rect x="204" y="0" width="4" height="32" fill="white"/>
+    <rect x="216" y="0" width="2" height="32" fill="white"/>
+    <rect x="224" y="0" width="8" height="32" fill="white"/>
+    <rect x="240" y="0" width="2" height="32" fill="white"/>
+    <rect x="248" y="0" width="4" height="32" fill="white"/>
+    <rect x="256" y="0" width="2" height="32" fill="white"/>
+  </g>
+  
+  <!-- Text -->
+  <text x="256" y="440" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="24" font-weight="bold">UNIFORMES</text>
+</svg>
